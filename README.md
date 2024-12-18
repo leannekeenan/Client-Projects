@@ -1,7 +1,7 @@
 # Client Projects 
 
   <p align="center">
-    <img src="https://imgur.com/FoDKGli" alt="Personal Projects">
+    <img src="https://imgur.com/FoDKGli.jpg" alt="Personal Projects">
   </p>
 
 This repository contains completed or pitch-ready projects developed for clients, showcasing work that was either delivered or created for potential business proposals. These projects highlight my ability to meet client needs, solve specific problems, and deliver high-quality web solutions. 
